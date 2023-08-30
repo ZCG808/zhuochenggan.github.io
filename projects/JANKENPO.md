@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/JANKENPO UI.png
+image: 
 title: "JANKENPO"
 date: 2022-03
 published: true

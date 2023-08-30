@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/JANKENPO UI.png
 title: "JANKENPO"
 date: 2022-03
 published: true

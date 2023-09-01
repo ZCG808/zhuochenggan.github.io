@@ -10,7 +10,7 @@ labels:
   - Algorithim
   - Data Structure
   - Dynamic Programming 
-summary: "Beginned my interest in Computer Science during Middle School with this competition "
+summary: "Preparing For Technical Interview Via LeetCode"
 ---
 
 <div class="text-center p-4">

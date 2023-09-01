@@ -15,4 +15,8 @@ summary: "Beginned my interest in Computer Science during Middle School with thi
   <img width="300px" src="../img/cyberpatriot inside.jpg" class="img-thumbnail" >
 </div>
 
-The goal of this project was to provide first-time students with an introduction to Java GUI framework and coding interactive programs. The skills involved was GUI design and Java Backend Programming. 
+This is a national competition that was held during the last year of my middle school, it involved with given a virtual machine and time constraints, and participants were required to debug all safety concerns. This could range from Cybersecurity, OS Security, and Computer Logistics.
+
+I was joined by two other friends to participate in this competition, Together we were on the same virtual machines and each of us would go into the machine and dig for bugs. 
+
+This experience opened my eyes to the Computer Science world and gave me a sneak peek into what CyberSecurity engineers do on a daily basis. It also helped me to get familiar with daily computer safety and components of the OS. 

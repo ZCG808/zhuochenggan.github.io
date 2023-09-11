@@ -18,7 +18,8 @@
     { "name": "Artificial Intelligence" },
     { "name": "Machine Learning" },
     { "name": "Ethic Studies" },
-    { "name": "Data Processing" }
+    { "name": "Data Processing" },
+    { "name": "Database System" }
   ],
   "skills": [
     {

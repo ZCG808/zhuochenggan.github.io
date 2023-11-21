@@ -9,12 +9,12 @@ labels:
   - Computer Science
 ---
 
-*Introduction*
+**Introduction**
 
 AI has become one of the foundational tools in Education and Software Engineering, it’s capability of answering a question precisely and timely has been a key aspect of it’s popularity. In education, it assists student in off-class hours and allow student learn new material outside of classes. On the other hand, in industry it provides debugging help, syntax check and information library for Software Engineers. I personally used ChatGPT as my primary source of AI help and resource.
 
 
-*Personal Experience with AI*
+**Personal Experience with AI**
 
 ***Experience WODs e.g. E18***
 

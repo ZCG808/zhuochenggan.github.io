@@ -21,5 +21,9 @@ In Software Engineering, design patterns is reusable solutions to commonly exper
 
 Many programmer are not aware of their use of design patterns before learning the concepts of it. Prior to ICS 314, I was not aware of the idea of designs patterns and after learning about the concepts, I recall utilizing such strategy in many of my coding projects. For example, multi-thread is a common technique used in Java program to boost up efficiency of programs but this comes at a cost, the possibility of race-condition. When multiple thread are accessing a single resource or object, the order of access can be varies and causing unexpected results for the programmer. So what is a solution? Implement a lock on the object or resources to allow only one access at a time would be a ideal solution for such a problem, and what I’ve just described in an example of the singleton design pattern. Singleton design pattern are widely used in Software Engineering projects to ensure expected results, most of the time design pattern are not requirement in your projects. But utilizing design pattern can be best pratices and provide useful function toward a successful project.
 
+*Conclusion*
+
+In conclusion, design pattern are key to building successful projects and allows common technique shared between different development. Projects ranges from different langugages and purposes, but it's common implementation can be defined as a design pattern. For example, a singleton strategy can be implment for threads in Java, web manager in Javascripts and AI modification in Pythons. It greatly enahnces the performance and quality of any software projects and a must know for any Software Engineers. 
+
 
 

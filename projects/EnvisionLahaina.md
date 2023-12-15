@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/envisionlogo.webp
+image: img/elnlogo.webp
 title: "Envision Lahaina"
 date: 2023
 published: true

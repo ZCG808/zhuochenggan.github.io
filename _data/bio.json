@@ -15,19 +15,20 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Artificial Intelligence" },
-    { "name": "Machine Learning" },
-    { "name": "Ethic Studies" },
-    { "name": "Data Processing" }
+    { "name": "Artificial Intelligence" }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Java", "C", "C++", "Javascript", "SQL", "Python", "Assembly" ]
+      "keywords": [ "Java", "Javascript", "C", "C++", "SQL","Assembly" ]
+    },
+    {
+      "name": "Frameworks/Libraries",
+      "keywords": [ "HTML", "CSS", "React", "Boostrap", "Node.Js" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Window, Ubuntu, Linux" ]
+      "keywords": [ "Github, DigitalOcean, Domain, Window, Ubuntu, Linux" ]
     }
   ],
   "education": [
@@ -47,7 +48,7 @@
       "position": "ICS 211 Learning Assistant",
       "website": "https://manoa.hawaii.edu/learning-assistant-program/",
       "startDate": "2023-07-17",
-      "endDate": "Present",
+      "endDate": "2023-12-14",
       "summary": "",
       "highlights": [
         "Assiting With Student's Queries In-Class For Two Section Of ICS 211",
@@ -74,7 +75,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Building A Diverse Porfolio Of Software Base On Customer's Needs",
+        "Building A Diverse Portfolio Of Software Base On Customer's Needs",
         "Handling Full Process Of The Sales Including Listing, Payment And Delievery"
       ]
     }

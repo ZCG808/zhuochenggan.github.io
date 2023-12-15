@@ -9,13 +9,13 @@ labels:
   - Computer Science
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/bootstrap 5 logo.jpg">
+<img width="600px" class="img-thumbnail" src="../img/bootstrap 5 logo.jpg">
 
 *Extra Restriction And Complication On Top Of Language?* 
 
 Frameworks are pre-developed code to provide developer convenience during software development. Matter of fact, Frameworks are widely used in the UI design and web development world. Framework itself brings many benefits to the table, such as consistency, responsive design, and time efficiency. At this point, some might ask why don’t we just use the framework for all future development since it provides so many benefits. Although the framework provides many took and pre-finished designs, this also limits the creativity of the developer. Developer are essentially limited within a frame to do their development, constantly relying on a framework are not beneficial from a learning standpoint. 
 
-<img width="600px" class="rounded float-start pe-4" src="../img/nike homepage.png">
+<img width="600px" class="img-thumbnail" src="../img/nike homepage.png">
 
 *Personal Experience*
 

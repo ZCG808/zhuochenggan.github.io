@@ -9,13 +9,13 @@ labels:
   - Computer Science
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/sw 1.png">
+<img width="600px" class="img-thumbnail" src="../img/sw 1.png">
 
 **Passionate Career In SW?**
 
 Software engineering has always been my intended career in Computer Science, and as I get further into my education, it is clear that Software engineering is a field I would love to pursue a career in. My relation to SW dates backs to my first ever CS class, ICS 111, this class guided me into the world of programming and allowed me to put my creative thoughts into creating softwares. 
 
-<img width="600px" class="rounded float-start pe-4" src="../img/0_7_NJSsdx_9tS3Oie.jpg">
+<img width="600px" class="img-thumbnail" src="../img/0_7_NJSsdx_9tS3Oie.jpg">
 
 At the beginning of my academic career, I have always thought the responsibility of a software engineer is similar to a programmer and the only difference is that a software engineer focuses on developing software. This turns out to be very untrue as I dive deeper into software engineering. Software Engineers are solely responsible for designing an optimal solution considering the tradeoff in a given problem. This is arguably the most important stage of any software development, and once the design has been created, the coding part is as simple as following a script. 
 

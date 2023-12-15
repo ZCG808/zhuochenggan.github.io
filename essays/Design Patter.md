@@ -9,14 +9,14 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://sourcemaking.com/files/v2/content/home-tb1.png?id=944b161223408e06c3c65387c36a96ea">
+<img width="600px" class="img-thumbnail" src="https://sourcemaking.com/files/v2/content/home-tb1.png?id=944b161223408e06c3c65387c36a96ea">
 
 **What is design patterns?**
 
 In Software Engineering, design patterns are reusable solutions to commonly experienced problems. It allows for usability, and development efficiency and provides a reliable foundation to start your projects. Although it is not a section of code you can directly implement into your project like many famous algorithms or searches out there. It provides a roadmap and recipe while designing your project, Design patterns can be broken down into 3 categories: creational, structural, and behavioral. Creational patterns relate to object creation, structural patterns deal with the relationship between those objects and lastly, behavioral patterns are responsible for the use of those objects. In general, design patterns are invaluable to creating clean, reliable, and scalable Software projects.
 
 
-<img width="200px" class="rounded float-start pe-4" src="https://refactoring.guru/images/patterns/content/singleton/singleton-3x.png">
+<img width="600px" class="img-thumbnail" src="https://refactoring.guru/images/patterns/content/singleton/singleton-3x.png">
 
 **Use of Design Pattern In My Projects**
 

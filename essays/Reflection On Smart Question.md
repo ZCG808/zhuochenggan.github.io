@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/good questions.png">
+<img width="600px" class="img-thumbnail" src="../img/good questions.png">
 
 **Software Engineering Questions**
 
@@ -17,7 +17,7 @@ Asking smart questions is considered a key skill for any job profession includin
 
 Stackoverflow, ChatGPT and Google are often programmer best friends, but in order to get help from those platforms, it requires us programmers to give a precise and answerable prompt. Other than a precise prompt, giving as much detail as possible will be crucial, such as your experience when facing this problem and applicable information. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/good-or-bad-person.jpg">
+<img width="600px" class="img-thumbnail" src="../img/good-or-bad-person.jpg">
 
 **Good Questions?**
 

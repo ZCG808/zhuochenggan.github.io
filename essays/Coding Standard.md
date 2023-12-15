@@ -15,7 +15,7 @@ labels:
 
 Throughout a programmer’s education and career, one often has to review their previous code or share code with collaborators. In these situations, we often want our code’s readability to be clear and precise, this applies to any previous note-taking you have taken in your class or any information your professors are passing down to you. Often you want information or code to be easily understandable, in programming, we enforces such standard by having Coding Standards. Coding standards are like grammar for writing an essay or paper, it is enforced to keep information neat, and understandable and remove any unnecessary info. 
 
-<img width="600px" class="rounded float-start pe-4" src="../img/ESLint.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ESLint.png">
 
 **Eslint**
 

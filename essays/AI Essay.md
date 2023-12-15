@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/10/Artificial_Intelligence_dreamstime_Wrightstudio_132528154.651b15a80a486.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630">
+<img width="600px" class="img-thumbnail" src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/10/Artificial_Intelligence_dreamstime_Wrightstudio_132528154.651b15a80a486.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630">
 
 **Introduction**
 

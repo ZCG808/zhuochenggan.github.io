@@ -28,7 +28,7 @@ Open sourcing your project is a great way to display any project you have worked
 
 Having a good development environment is a key essentials for any programmer, it allows you to code efficiently and effectively. One of the biggest tools that I acquire throughout this semester is Github, it allows for better project management and collaborative programming. Using github is also a great way to showcase open source software. To continue with, having a modern IDE is also crucial for any programmer, it allows for better coding expereinces and IDE like Intellij allows you to add plug ins for one's customization.  
 
-<img width="300px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTow4tY8RdGWdqZvo1v1mddGBFA6H-p-kkuGg&usqp=CAU">
+<img width="300px" class="rounded float-start pe-4" src="https://www.turing.com/blog/wp-content/uploads/2023/03/Top-10-React-UI-Frameworks-for-Developers-in-2023-1-scaled.jpg">
 
 **User Interface Frameworks**
 

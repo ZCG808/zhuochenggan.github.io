@@ -11,7 +11,6 @@ labels:
   - API, Deployment, Domain
 summary: "Web portal that facilitates the civic engagement around how to rebuild Lahaina, including surveys, forums, AI, map modelin and GIS mapping features"
 ---
-# Envision Lahaina
 
 ### Related Links
 
@@ -31,6 +30,7 @@ summary: "Web portal that facilitates the civic engagement around how to rebuild
 ### My experience
 
 - I had an blast working on this project and presenting at HACC 2023. The two week i spend working on this project help me realized the amount of material and new tech I can absorb in a short amount of time. It is about whether you have the drive to learn and the passion to create a project you are proud of. 
+- Through the process of completing this project, I've experienced many challenges, one of them being image upload. If we directly store image upload onto our MongoDB it would be oversize and very inefficient, also will not preventing malicious files upload. Through hours of research, than I was able to figure out a solution, which was using an external cloud and store a secure link returned by the external cloud, allowing us to store image in a safe and efficient way.
 
 
 ## Sample Features

@@ -15,7 +15,7 @@ summary: "Beginned my interest in Computer Science during Middle School with thi
   <img width="600px" src="../img/cyberpatriot inside.jpg" class="img-thumbnail" >
 </div>
 
-This is a national competition that was held during the last year of my middle school, it involved with given a virtual machine and time constraints, and participants were required to debug all safety concerns. This could range from Cybersecurity, OS Security, and Computer Logistics. This was an basic introduction for youth to participate in the CyberSecurity area, and prblems shown in the competition are safety issues we see in our daily life. 
+This is a national competition that was held during the last year of my middle school, it involved with given a virtual machine and time constraints, and participants were required to debug all safety concerns. This could range from Cyber-security, OS Security, and Computer Logistics. This was an basic introduction for youth to participate in the CyberSecurity area, and prblems shown in the competition are safety issues we see in our daily life. 
 
 I was joined by two other friends to participate in this competition, Together we were on the same virtual machines and each of us would go into the machine and dig for bugs. During every week there would be training sessions and on competition days, our team collective effort had earned us second place in our division.
 

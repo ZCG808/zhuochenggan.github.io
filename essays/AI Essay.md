@@ -32,7 +32,7 @@ AI isn’t too useful for essay either, as in this class essay is just a way to 
 
 ***Final project***
 
-I find myself using AI alot for the final project, it is the quickest way for me to test out my idea and explore new knowledge needed for the project. For example. I would find myself asking what are some good tools for a specific task or if I want to achieve a certain ideas, how should I approach it?
+I find myself using AI a lot for the final project, it is the quickest way for me to test out my idea and explore new knowledge needed for the project. For example. I would find myself asking what are some good tools for a specific task or if I want to achieve a certain ideas, how should I approach it?
 
 ***Learning a concept / tutorial***
 
@@ -73,7 +73,7 @@ N/A
 
 **Impact on Learning and Understanding**
 
-Incorporaton of AI have boosted my efficiency in learning new material as it provide one direct stop on getting information and personalize explanation. Although it doesn’t provide the most in-depth solution, it’s 24/7 availability and detail oriented solution has benefited me a lot as a student and developer.
+Incorporation of AI have boosted my efficiency in learning new material as it provide one direct stop on getting information and personalize explanation. Although it doesn’t provide the most in-depth solution, it’s 24/7 availability and detail oriented solution has benefited me a lot as a student and developer.
 
 
 **Practical Applications**
@@ -83,19 +83,19 @@ For my HACC project, I’ve also incorporate the use of AI including a AI genera
 
 **Challenge and Opportunities**
 
-Within the course, use of AI was more for off-class researching and understanding the material. For any inclass assignments or WOD, I find it not as useful as we can get help directly from the Professor and WOD are timed, so there is lack of time to utilize AI in exploration for an answer.
+Within the course, use of AI was more for off-class researching and understanding the material. For any in class assignments or WOD, I find it not as useful as we can get help directly from the Professor and WOD are timed, so there is lack of time to utilize AI in exploration for an answer.
 
 
 **Comparative Analysis**
 
-Traditional teaching methods and Ai enhanced approaches shares a lot of similarity, as AI are mostly trained on human data to educate user on certain topic. But the traditional teching methods provides a teaching styles that consists of less error, a lot of the time AI contains error in its response as it is requires to provide a timely response time. As for traditional teaching, a lot of the time teaching material are well prepared in advance and expert level teacher are assigned to teach such subject.
+Traditional teaching methods and Ai enhanced approaches shares a lot of similarity, as AI are mostly trained on human data to educate user on certain topic. But the traditional teaching methods provides a teaching styles that consists of less error, a lot of the time AI contains error in its response as it is requires to provide a timely response time. As for traditional teaching, a lot of the time teaching material are well prepared in advance and expert level teacher are assigned to teach such subject.
 
 
 **Future Considerations**
 
-I believe AI is here to stay and the development of such technology will not only advance the speed of improvement in Software Enginerring, but also in other academic fields. At the same time, AI is also facing a loads of challenges such as data ethics, bias fairness, security and etc. There will be many challenges and questions raised as the development of AI improves. 
+I believe AI is here to stay and the development of such technology will not only advance the speed of improvement in Software Engineering, but also in other academic fields. At the same time, AI is also facing a loads of challenges such as data ethics, bias fairness, security and etc. There will be many challenges and questions raised as the development of AI improves. 
 
 **Conclusion**
 
-In conclusion, I believe AI is a great toolset when used the proper way, overrelying on the use of AI will result in lack of self-improvement and understanding of materials. AI when used properly can create another workforce revolution where everybody in the society is able to move on from low-mid level jobs onto higher level jobs. It can be implemented into robotics, automation, research and etc, these are extremely beneficial to the society and not only to the world of Software Engineering. 
+In conclusion, I believe AI is a great toolset when used the proper way, over-relying on the use of AI will result in lack of self-improvement and understanding of materials. AI when used properly can create another workforce revolution where everybody in the society is able to move on from low-mid level jobs onto higher level jobs. It can be implemented into robotics, automation, research and etc, these are extremely beneficial to the society and not only to the world of Software Engineering. 
 

@@ -4,7 +4,7 @@ type: project
 image: img/Leetcode logo.png
 title: "LeetCode Porfolio"
 date: 2023
-published: true
+published: false
 labels:
   - Java
   - Algorithim
@@ -21,4 +21,4 @@ This is an ongoing preparation, where I would try to do one problem per day duri
 
 Currently, I'm focused on utilizing Java to solve a problem involving data structure, algorithms, and dynamic programming in the most optimal way. As my skills become more fluent in these focuses, I would like to expand my portfolio into databases and Python problem-solving. 
 
-Going through leet code exercises helps me to keep my coding skills active and expand my knowledge of algorithm design, it also pushes me to find the most optimal solution. I would often face similar problems as many software engineers, such as the tradeoff between time complexity and space complexity, and that is with user responsiveness and experience in consideration. 
+Going through leetcode exercises helps me to keep my coding skills active and expand my knowledge of algorithm design, it also pushes me to find the most optimal solution. I would often face similar problems as many software engineers, such as the tradeoff between time complexity and space complexity, and that is with user responsiveness and experience in consideration. 

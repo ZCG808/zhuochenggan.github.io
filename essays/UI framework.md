@@ -4,7 +4,7 @@ type: essay
 title: "Extra Restriction And Complication On Top Of Language?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
-published: true
+published: false
 labels:
   - Computer Science
 ---

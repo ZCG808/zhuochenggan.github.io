@@ -4,7 +4,7 @@ type: essay
 title: "First Ever WOD!!!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
-published: true
+published: false
 labels:
   - Computer Science
 ---

@@ -9,6 +9,8 @@ labels:
   - Computer Science
 ---
 
+<img width="600px" class="rounded float-start pe-4" src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/10/Artificial_Intelligence_dreamstime_Wrightstudio_132528154.651b15a80a486.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630">
+
 **Introduction**
 
 AI has become one of the foundational tools in Education and Software Engineering, it’s capability of answering a question precisely and timely has been a key aspect of it’s popularity. In education, it assists student in off-class hours and allow student learn new material outside of classes. On the other hand, in industry it provides debugging help, syntax check and information library for Software Engineers. I personally used ChatGPT as my primary source of AI help and resource.

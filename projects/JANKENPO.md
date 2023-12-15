@@ -13,8 +13,8 @@ summary: "JANKENPO Is What We Know As ROCK-PAPER-SCISSOR, This Was My First Ever
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/JANKENPO UI.png" class="img-thumbnail" >
-  <img width="300px" src="../img/JANKENPO HELP PAGE.png" class="img-thumbnail" >
+  <img width="500px" src="../img/JANKENPO UI.png" class="img-thumbnail" >
+  <img width="500px" src="../img/JANKENPO HELP PAGE.png" class="img-thumbnail" >
 </div>
 
 The goal of this project was to provide ICS 211 students with a first-time experience with Java GUI framework and coding interactive programs. The skills involved were GUI design and Java Backend Programming. The game itself is pretty self-explanatory to those who have played ROCK-PAPER-SCISSOR before, but for those who haven't heard of this game before, there is a help page showcasing the rules. 
